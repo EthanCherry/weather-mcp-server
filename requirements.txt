@@ -1,2 +1,2 @@
-hello-agents==0.2.1
+hello-agents==0.2.2
 requests==2.31.0
